@@ -1,4 +1,3 @@
-# logica
 distanciax = float(input("Digite a distância [km]: "))
 total_combustively = float(input("Digite o total de combustível gasto [litros]: "))
 consumo = distanciax / total_combustively
