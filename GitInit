@@ -1,0 +1,7 @@
+Git init
+git config --global user.name "Nome do usuario"(nao coloque isso, coloque seu nome de usuario =/)
+git config --global user.name "seu email" (mesma logica)
+git branch -M main
+git remote add origin o link do repositorio
+git pull origin main
+E pronto 👍
