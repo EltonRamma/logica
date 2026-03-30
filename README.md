@@ -8,4 +8,5 @@ if consumo <= 5:
 elif 5 < consumo <= 10:
     print("Consumo razoável. Está dentro da média, mas ainda pode melhorar.")
 else:
-    print("Consumo excelente! Seu veículo está indo muito bem.")
+    pri![giphy](https://github.com/user-attachments/assets/1e400778-ffcf-48a5-b1c7-743ffdfe4f60)
+nt("Consumo excelente! Seu veículo está indo muito bem.")
